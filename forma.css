@@ -1,0 +1,66 @@
+html, table {
+
+    border-style: solid;
+    border-width: 1px;
+    font-family: serif;
+    
+   
+    border-radius: 4px;
+   
+  }
+
+  #prva {
+      
+    
+    
+    
+   
+    color: black;
+    background-color: #f5f5f5;
+    
+    font-family: bold;
+    font-size: 13pt;
+
+}
+
+#druga {
+
+
+   
+    color:black;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+#treca {
+
+    color: black;
+    font-weight: bold;
+    font-size: 13pt;
+
+}
+
+#cetvrta 
+{
+
+    color: black;
+    font-weight: bold;
+    font-size: 13pt;
+    
+}
+
+#input1 {
+
+    width: 500px;
+    border-radius: 4px;
+    border-width: 1px;
+    height: 28px;
+}
+
+#input2 {
+
+    width: 500px;
+    border-radius: 4px;
+    border-width: 1px;
+    height: 28px;
+}
